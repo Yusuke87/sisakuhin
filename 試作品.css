@@ -21,9 +21,10 @@ header{
   margin-left: -20px;
 }
 .container img{
-  height:420px;
+  height:390px;
   float: left;
   margin-bottom: 40px;
+  width:64%;
 }
 .all-box{
   position: fixed;
